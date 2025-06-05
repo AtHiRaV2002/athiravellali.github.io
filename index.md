@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Athira V
+
 ---
 
 # 👋 Hi, I'm **Athira V**
