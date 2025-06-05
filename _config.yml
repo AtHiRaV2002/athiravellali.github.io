@@ -1,0 +1,5 @@
+title: Athira V
+theme: minima
+description: Cybersecurity Portfolio
+plugins:
+  - jekyll-feed
